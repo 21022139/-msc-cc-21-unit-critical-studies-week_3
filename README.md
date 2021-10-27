@@ -3,7 +3,7 @@
 
 *week_3*
 
-## description of a library in 500 years
+## Description of a library in 500 years
 
 ![截屏2021-10-27 上午9 41 25](https://user-images.githubusercontent.com/92035097/139031275-d675ab45-8129-4c47-8b4c-c5762a70bb18.png)
 > Keiichi Matsuda, “HYPER-REALITY”, 2016.
